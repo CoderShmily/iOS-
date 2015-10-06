@@ -137,6 +137,6 @@
 #iOS应用数据存储的常用方式
 
 
-Click this [123](#anchor1) in the Preview view will auto scroll to the place of the destination anchor.
+Click this [link](#anchor1) in the Preview view will auto scroll to the place of the destination anchor.
 
 <A HREF="#ROP_ARM">ROP_ARM</A>
