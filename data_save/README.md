@@ -8,12 +8,10 @@
 
 
 
-[ROP__ARM](#ROP_ARM)
+//[ROP__ARM](#ROP_ARM)
 
 ## [This is an example](#anchor1)
 
-[链接文字][url name]
-[url name]: http://www.baidu.com
 
 
 
@@ -139,5 +137,5 @@
 #iOS应用数据存储的常用方式
 
 
-Click this [link](#anchor1) in the Preview view will auto scroll to the place of the destination anchor.
+Click this [123](#anchor1) in the Preview view will auto scroll to the place of the destination anchor.
 
