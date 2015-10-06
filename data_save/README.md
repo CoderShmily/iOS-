@@ -6,3 +6,26 @@
 ## 4. SQLite3
 ## 5. Core Data
 
+
+
+[链接文字][link id] 
+
+
+[链接文字][url name]
+[url name]: http://www.baidu.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[link id]:www.baidu.com：
