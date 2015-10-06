@@ -93,6 +93,9 @@ UITapGestureRecognizer *tap = [[UITapGestureRecognizer alloc] init];
     - 每一个手势识别器的用法都差不多，比如UITapGestureRecognizer的使用步骤如下
 创建手势识别器对象
 UITapGestureRecognizer *tap = [[UITapGestureRecognizer alloc] init];
+
+
+
 <a name="1">锚点1跳转处</a>
 <h2 id="2">锚点2跳转处</h2>
 
