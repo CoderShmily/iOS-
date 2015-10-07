@@ -1,5 +1,5 @@
 # archiving
-####<1> 归档:自定义对象想要存储到沙盒（文件夹），必须通过归档。
+#### 归档:自定义对象想要存储到沙盒（文件夹），必须通过归档。
 `自定义对象要归档，必须要遵守NSCoding协议`
 ```objc
 - (IBAction)save:(id)sender {
@@ -37,7 +37,7 @@
 }
 
 ```
-#### <2>Person类实现
+#### Person类实现
 
 ```objc
 //  Person.h
@@ -87,7 +87,8 @@
 
 @end
 ```
-#### <3>initWithCoder补充
+
+####  initWithCoder补充
 
 ```objc
 #import "RedView.h"
