@@ -89,9 +89,9 @@ self.tableView.sectionFooterHeight = 50;
 self.tableView.separatorColor = [UIColor redColor];
 // 设置分割线样式
 self.tableView.separatorStyle = UITableViewCellSeparatorStyleNone;
-// 设置表头控件  可用来
+// 设置表头控件  可用来做广告
 self.tableView.tableHeaderView = [[UISwitch alloc] init];
-// 设置表尾控件
+// 设置表尾控件  可用来上拉刷新
 self.tableView.tableFooterView = [UIButton buttonWithType:UIButtonTypeContactAdd];
 
 // 设置右边索引文字的颜色
